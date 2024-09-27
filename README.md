@@ -1,4 +1,4 @@
-# UART RECIEVER FOR FPGA
+# FPGA COUNTER
 
 ![Logo](./Images/Image1.png)   <!-- Replace with your image link -->
 
